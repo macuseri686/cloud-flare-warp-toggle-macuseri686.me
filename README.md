@@ -9,6 +9,9 @@ A GNOME Shell extension that provides a quick toggle for connecting and disconne
 - Automatic status checks every 30 seconds
 - Integration with GNOME Shell's quick settings menu
 
+## Screenshots
+![Screenshot from 2025-03-15 20-04-44](https://github.com/user-attachments/assets/02e7446a-98e9-4f59-a9f4-45d3eade13df)
+
 ## Requirements
 
 - GNOME Shell 43 or later
@@ -17,16 +20,11 @@ A GNOME Shell extension that provides a quick toggle for connecting and disconne
 
 ## Installation
 
-### From Extensions Website (Recommended)
-
-1. Visit [extensions.gnome.org](https://extensions.gnome.org/) and search for "CloudFlare Warp Toggle"
-2. Click the toggle switch to install
-
 ### Manual Installation
 
 1. Clone this repository:
 ```
-git clone https://github.com/macuseri686/cloud-flare-warp-toggle.git
+git clone https://github.com/macuseri686/cloud-flare-warp-toggle-macuseri686.me.git
 cd cloud-flare-warp-toggle
 ```
 
@@ -55,10 +53,6 @@ After installation, you'll find a new toggle in your system menu quick settings 
 2. The icon will change to show connection status:
    - Cloud icon: Connected to Warp
    - VPN disconnected icon: Disconnected from Warp
-
-## Screenshots
-
-[Insert screenshots here showing the extension in action]
 
 ## Troubleshooting
 
