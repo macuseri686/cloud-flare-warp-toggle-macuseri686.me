@@ -1,0 +1,8 @@
+{
+  "name": "CloudFlare Warp Toggle",
+  "description": "Adds a CloudFlare Warp toggle to the Quick Settings Panel",
+  "uuid": "cloud-flare-warp-toggle@macuseri686.me",
+  "shell-version": [
+    "46"
+  ]
+}
